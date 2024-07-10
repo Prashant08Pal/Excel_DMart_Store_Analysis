@@ -1,6 +1,6 @@
 **DMart_Store_Data_Analysis** <br>
-**Objective** : DMart Store wants to create an annual sales reports for 2022 .so that , Dmart can understand their customers and grow more sales in 2023.
-**Procedure:**
+**Objective** : DMart Store wants to create an annual sales reports for 2022 .so that , Dmart can understand their customers and grow more sales in 2023. <br>
+**Procedure:** <br>
 1.  Analyse raw data of DMart Sales 2022.
 2. Perform Operation such as Data Cleaning , Data Processing , Data analysis , Data Visualization .
 3. Our dashboard look like :
